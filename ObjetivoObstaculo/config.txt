@@ -1,0 +1,3 @@
+../ObjetivoObstaculo
+kinect
+
